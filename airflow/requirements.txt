@@ -1,0 +1,4 @@
+pandas==2.2.0
+pyarrow==14.0.2
+matplotlib==3.8.2
+reportlab==4.1.0
