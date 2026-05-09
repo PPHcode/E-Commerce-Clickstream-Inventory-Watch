@@ -1,0 +1,5 @@
+# Spark uses the official apache/spark:3.5.0 image, which already ships
+# with PySpark. The Kafka source/sink JARs are pulled at submit time via
+# the --packages flag (org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0).
+#
+# Nothing to pip-install for this service.
